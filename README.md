@@ -8,7 +8,7 @@ The project began as a Python backend built with Pandas, Matplotlib, and yFinanc
 
 ## 🌐 Live Demo
 
-🔗 https://stockly-analyzer.lovable.app
+👉 🔗 https://stockly-analyzer.lovable.app
 
 ---
 
