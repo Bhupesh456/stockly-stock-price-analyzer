@@ -1,0 +1,6 @@
+pandas
+matplotlip
+seaborn
+yfinance
+numpy
+datetime
